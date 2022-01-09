@@ -10,7 +10,13 @@
     "arrow-parens": "off",
     "comma-dangle": "off",
     "require-jsdoc": "off",
-    "linebreak-style": "off"
+    "linebreak-style": "off",
+    "indent": "off",
+    "no-trailing-spaces": "off",
+    "eol-last": "off",
+    "quotes": "off",
+    "space-before-blocks": "off",
+    "no-undef": "off"
   },
 
   "extends": [
