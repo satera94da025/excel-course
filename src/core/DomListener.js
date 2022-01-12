@@ -18,7 +18,6 @@ export class DomListener {
                     is not implemented in ${name}`)
                 }
                 this[menthod] = this[menthod].bind(this)
-
                 this.$root.on(listener, this[menthod])
             }
         )
